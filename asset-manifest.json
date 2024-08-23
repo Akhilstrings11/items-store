@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Akhilstrings11/Images/static/css/main.5e46593f.css",
+    "main.js": "/Akhilstrings11/Images/static/js/main.8d34312c.js",
+    "static/js/453.c0481822.chunk.js": "/Akhilstrings11/Images/static/js/453.c0481822.chunk.js",
+    "static/media/logo.svg": "/Akhilstrings11/Images/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Akhilstrings11/Images/index.html",
+    "main.5e46593f.css.map": "/Akhilstrings11/Images/static/css/main.5e46593f.css.map",
+    "main.8d34312c.js.map": "/Akhilstrings11/Images/static/js/main.8d34312c.js.map",
+    "453.c0481822.chunk.js.map": "/Akhilstrings11/Images/static/js/453.c0481822.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e46593f.css",
+    "static/js/main.8d34312c.js"
+  ]
+}
