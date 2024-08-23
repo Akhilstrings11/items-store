@@ -2,6 +2,33 @@
   text-align: center;
 }
 
+*{
+  background-color: #393E46;
+  color: aliceblue;
+}
+
+.formm{
+  background-color: #282c34 !important;
+  color: aliceblue !important;
+}
+
+input::placeholder{
+  color: aliceblue !important;
+}
+
+input:hover{
+  background-color: #393E46 !important;
+}
+
+@media screen and (max-width: 770px) {
+
+  .pp{
+    width: 80% !important;
+  }
+  
+}
+
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
